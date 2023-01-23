@@ -17,3 +17,9 @@ Een script speciaal voor de politie/kmar job. het script is bedoeld voor een men
 * Je kunt de voertuig spawn names in de config zetten.
 
 This script has a version check, new versions will be released regularly, so you can see it right at the start of the server.
+
+### Doneren
+
+wil je wat geld kwijt / mij bedanken voor dit mooie script?
+
+Paypal link : https://paypal.me/roylucasyt?country.x=NL&locale.x=nl_NL
